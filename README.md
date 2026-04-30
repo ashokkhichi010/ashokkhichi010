@@ -87,7 +87,7 @@ I enjoy building **end-to-end systems** — from backend APIs to embedded device
 
 ### 🔹 WiFi RC Car (V2 - IoT Upgrade)
 
-- Upgrading RC car using **ESP8266 + PlatformIO**  
+- Upgraded Version of RC car using **ESP8266**  
 - Exploring **WiFi-based control and IoT communication systems**
 
 🔗 **Hardware Repo:** https://github.com/ashokkhichi010/Bluetooth-RC-Car/tree/v2  
