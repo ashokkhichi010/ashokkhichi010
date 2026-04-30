@@ -1,18 +1,18 @@
 # Hi, I'm Ashok Kumar 👋
 
-🚀 Full Stack Engineer transitioning into IoT & Embedded Systems  
-💡 Building real-world systems combining software + hardware  
+🚀 **Full Stack Engineer → IoT & Embedded Systems**  
+💡 Building real-world systems combining **software + hardware**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a backend-focused full stack developer with experience in building SaaS platforms and production systems using Node.js and React.
+Backend-focused full stack developer experienced in building SaaS platforms and production systems using **Node.js and React**.
 
-Over time, my curiosity expanded into how systems work beyond software — at the hardware level.  
-I am now actively learning and building in **IoT and Embedded Systems**, working with microcontrollers, sensors, and real-world automation systems.
+Over time, my curiosity expanded beyond software into **hardware systems and real-world automation**.  
+I am now actively learning and building in **IoT & Embedded Systems**, working with microcontrollers, sensors, and system-level integration.
 
-I enjoy building complete systems — from backend APIs to embedded devices.
+I enjoy building **end-to-end systems** — from backend APIs to embedded devices.
 
 ---
 
@@ -27,8 +27,8 @@ I enjoy building complete systems — from backend APIs to embedded devices.
 
 ### 🔌 IoT & Embedded Systems
 - **Microcontrollers:** Arduino, ESP8266  
-- **Languages:** C/C++ (learning)  
-- **Concepts:** GPIO, UART, sensor interfacing, debugging  
+- **Languages:** C/C++ (basic)  
+- **Concepts:** GPIO, UART, Sensor Interfacing, Debugging  
 - **Tools:** Arduino IDE, PlatformIO (learning)  
 
 ---
@@ -37,51 +37,61 @@ I enjoy building complete systems — from backend APIs to embedded devices.
 
 ### 🔹 S3 Library SaaS Platform
 
-* Designed and built a **multi-tenant SaaS platform** to manage library operations
-* Implemented **subscription management, seat allocation, and admin workflows**
-* Developed using **NestJS, MongoDB, React, and Flutter (Android App)**
-* Focused on solving **real-world operational challenges in offline libraries**
-* 🚧 Currently **on hold due to market adoption challenges**
+- Built a **multi-tenant SaaS platform** for library operations  
+- Implemented **subscriptions, seat allocation, and admin workflows**  
+- Developed using **NestJS, MongoDB, React, Flutter (Android App)**  
+- Focused on solving **real-world operational challenges**  
+- 🚧 *Currently on hold due to market adoption challenges*
 
-🔗 Live (Main): https://s3library.com/
-🔗 Live V1 (Full System): https://partner.s3library.com *(full-featured version; currently inactive due to deployment environment)*
-🔗 Demo V2 (Serverless): https://free.s3library.com *(lightweight demo version)*
-🔗 Android App (Flutter): https://play.google.com/store/apps/details?id=com.s3library.students*(connects to V1 backend; requires active server environment)*
+🔗 **Live (Main):** https://s3library.com/  
+🔗 **Live V1 (Full System):** https://partner.s3library.com  
+*(full-featured version; currently inactive due to deployment environment)*  
+
+🔗 **Demo V2 (Serverless):** https://free.s3library.com  
+*(lightweight demo version)*  
+
+🔗 **Android App:** https://play.google.com/store/apps/details?id=com.s3library.students  
+*(connects to V1 backend; requires active server environment)*  
+
 ---
 
 ### 🔹 Habiqua Student Hub (Room Rental Platform)
-- SaaS-based room rental ecosystem  
-- Focused on real-world usability and system design  
 
-🔗 Live: https://habiqua-student-hub.web.app/  
+- Designed a **SaaS-based room rental ecosystem**  
+- Focused on **real-world usability and system workflows**
+
+🔗 **Live:** https://habiqua-student-hub.web.app/  
 
 ---
 
 ### 🔹 TypeFromImage (Typing Practice Tool)
-- Typing from image-based content  
-- Integrated audio feedback (piano-style typing)  
-- Built using React + Web Audio API  
 
-🔗 Live: https://image-typing-test.web.app/  
+- Built a typing tool using **image-based content**  
+- Added **audio feedback (piano-style typing)**  
+- Focused on **interactive UX and real-time input handling**
+
+🔗 **Live:** https://image-typing-test.web.app/  
 
 ---
 
 ### 🔹 Bluetooth RC Car (Multi-Mode System)
-- Manual control, obstacle avoidance, line following  
-- Built using Arduino + sensors + motor drivers  
-- Includes Flutter-based mobile controller  
 
-🔗 GitHub: [Bluetooth RC Car](https://github.com/ashokkhichi010/Bluetooth-RC-Car)  
-🔗 GitHub: [Controller APP](https://github.com/ashokkhichi010/Bluetooth-RC-Car-Controller)
+- Manual control, obstacle avoidance, and line following  
+- Built using **Arduino + sensors + motor drivers**  
+- Includes **Flutter-based mobile controller app**
+
+🔗 **Hardware Repo:** https://github.com/ashokkhichi010/Bluetooth-RC-Car  
+🔗 **Controller App:** https://github.com/ashokkhichi010/Bluetooth-RC-Car-Controller  
 
 ---
 
-### 🔹 WiFi RC Car (Multi-Mode System) - V2 of Bluetooth RC Car (Multi-Mode System)
-- Upgrading to ESP8266 + PlatformIO  
-- Exploring IoT communication and remote control systems  
+### 🔹 WiFi RC Car (V2 - IoT Upgrade)
 
-🔗 GitHub: [WiFi-RC-Car](https://github.com/ashokkhichi010/Bluetooth-RC-Car/tree/v2)
-🔗 GitHub: [Controller APP](https://github.com/ashokkhichi010/Bluetooth-RC-Car-Controller/tree/v2)
+- Upgrading RC car using **ESP8266 + PlatformIO**  
+- Exploring **WiFi-based control and IoT communication systems**
+
+🔗 **Hardware Repo:** https://github.com/ashokkhichi010/Bluetooth-RC-Car/tree/v2  
+🔗 **Controller App:** https://github.com/ashokkhichi010/Bluetooth-RC-Car-Controller/tree/v2  
 
 ---
 
@@ -98,7 +108,7 @@ I enjoy building complete systems — from backend APIs to embedded devices.
 
 - Build strong fundamentals in embedded systems  
 - Work on real-world IoT and automation systems  
-- Grow into a **systems engineer (software + hardware)**  
+- Grow into a **Systems Engineer (Software + Hardware)**  
 
 ---
 
@@ -113,4 +123,5 @@ I enjoy building complete systems — from backend APIs to embedded devices.
 
 ## ⚡ Fun Fact
 
-I enjoy building systems that connect logic with the real world — from APIs to physical devices.
+I enjoy building systems that connect logic with the real world —  
+from backend APIs to physical devices.
