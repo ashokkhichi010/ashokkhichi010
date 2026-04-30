@@ -43,10 +43,10 @@ I enjoy building complete systems — from backend APIs to embedded devices.
 * Focused on solving **real-world operational challenges in offline libraries**
 * 🚧 Currently **on hold due to market adoption challenges**
 
-🔗 **Live (Main):** [S3lIBRARY.COM](https://s3library.com/)
-🔗 **Live V1 (Full System):** [Admin Panel](https://partner.s3library.com) *(full-featured version; currently inactive due to deployment environment)*
-🔗 **Demo V2 (Serverless):** [Version 2 Free Demo & offline first mode](https://free.s3library.com) *(lightweight demo version)*
-🔗 **Android App (Flutter):** [Student APP](https://play.google.com/store/apps/details?id=com.s3library.students)*(connects to V1 backend; requires active server environment)*
+🔗 Live (Main): [S3lIBRARY.COM](https://s3library.com/)
+🔗 Live V1 (Full System): [Admin Panel](https://partner.s3library.com) *(full-featured version; currently inactive due to deployment environment)*
+🔗 Demo V2 (Serverless): [Version 2 Free Demo & offline first mode](https://free.s3library.com) *(lightweight demo version)*
+🔗 Android App (Flutter): [Student APP](https://play.google.com/store/apps/details?id=com.s3library.students)*(connects to V1 backend; requires active server environment)*
 ---
 
 ### 🔹 Habiqua Student Hub (Room Rental Platform)
