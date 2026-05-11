@@ -1,127 +1,162 @@
 # Hi, I'm Ashok Kumar 👋
 
-🚀 **Full Stack Engineer → IoT & Embedded Systems**  
-💡 Building real-world systems combining **software + hardware**
+🚀 Backend-Focused Full Stack Developer  
+💡 Building practical SaaS systems, APIs, and real-time applications
 
 ---
 
 ## 👨‍💻 About Me
 
-Backend-focused full stack developer experienced in building SaaS platforms and production systems using **Node.js and React**.
+Backend-focused full stack developer experienced in building SaaS platforms, APIs, authentication systems, and workflow-driven applications using Node.js, NestJS, React.js, and MongoDB.
 
-Over time, my curiosity expanded beyond software into **hardware systems and real-world automation**.  
-I am now actively learning and building in **IoT & Embedded Systems**, working with microcontrollers, sensors, and system-level integration.
+I enjoy building practical systems that solve real operational problems with a focus on maintainable backend architecture, clean workflows, and real-world usability.
 
-I enjoy building **end-to-end systems** — from backend APIs to embedded devices.
+My experience includes working on production SaaS systems as well as independently building products from idea to validation.
 
 ---
 
 ## 🔧 Tech Stack
 
-### 💻 Software Development
-- **Backend:** Node.js, NestJS, Express.js  
-- **Frontend:** React.js, Flutter  
-- **Database:** MongoDB, MySQL  
-- **Cloud:** GCP (Cloud Run), Firebase, AWS (basic)  
-- **Tools:** Git, REST APIs, WebSockets, DNS  
+### 💻 Backend Development
+- Node.js
+- NestJS
+- Express.js
+- REST APIs
+- Authentication & Authorization
+- WebSockets
+- Real-Time Systems
 
-### 🔌 IoT & Embedded Systems
-- **Microcontrollers:** Arduino, ESP8266  
-- **Languages:** C/C++ (basic)  
-- **Concepts:** GPIO, UART, Sensor Interfacing, Debugging  
-- **Tools:** Arduino IDE, PlatformIO (learning)  
+### 🖥 Frontend Development
+- React.js
+- Flutter
+- Tailwind CSS
+- TypeScript
+
+### 🗄 Database & Architecture
+- MongoDB
+- MySQL
+- Multi-Tenant Architecture
+- Workflow-Based Systems
+
+### ☁️ Cloud & Deployment
+- Firebase
+- Google Cloud Run
+- Firebase Hosting
+- DNS & Deployment Workflows
+
+### 🛠 Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Cursor
+- Antigravity
+- Chrome DevTools
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 S3 Library SaaS Platform
+### 🔹 S3 Library Platform
 
-- Built a **multi-tenant SaaS platform** for library operations  
-- Implemented **subscriptions, seat allocation, and admin workflows**  
-- Developed using **NestJS, MongoDB, React, Flutter (Android App)**  
-- Focused on solving **real-world operational challenges**  
-- 🚧 *Currently on hold due to market adoption challenges*
+Built a multi-tenant SaaS platform focused on solving operational problems in library management systems.
 
-🔗 **Live (Main):** https://s3library.com/  
-🔗 **Live V1 (Full System):** https://partner.s3library.com  
-*(full-featured version; currently inactive due to deployment environment)*  
+#### Features:
+- Subscription management
+- Seat allocation workflows
+- Attendance tracking
+- Admin operations
+- Real-time workflow handling
 
-🔗 **Demo V2 (Serverless):** https://free.s3library.com  
-*(lightweight demo version)*  
+#### Tech Stack:
+NestJS, MongoDB, React.js, Flutter, Firebase, Cloud Run
 
-🔗 **Android App:** https://play.google.com/store/apps/details?id=com.s3library.students  
-*(connects to V1 backend; requires active server environment)*  
+#### Highlights:
+- Built independently from idea to implementation
+- Focused on real-world workflow problems
+- Validated through direct interaction with libraries
+- Gained practical insights into adoption and product challenges
 
----
+🚧 *Currently on hold after product validation phase*
 
-### 🔹 Habiqua Student Hub (Room Rental Platform)
-
-- Designed a **SaaS-based room rental ecosystem**  
-- Focused on **real-world usability and system workflows**
-
-🔗 **Live:** https://habiqua-student-hub.web.app/  
-
----
-
-### 🔹 TypeFromImage (Typing Practice Tool)
-
-- Built a typing tool using **image-based content**  
-- Added **audio feedback (piano-style typing)**  
-- Focused on **interactive UX and real-time input handling**
-
-🔗 **Live:** https://image-typing-test.web.app/  
+🔗 Main Platform: https://s3library.com/  
+🔗 Demo Version: https://free.s3library.com  
+🔗 Android App: https://play.google.com/store/apps/details?id=com.s3library.students  
 
 ---
 
-### 🔹 Bluetooth RC Car (Multi-Mode System)
+### 🔹 Habiqua Student Hub
 
-- Manual control, obstacle avoidance, and line following  
-- Built using **Arduino + sensors + motor drivers**  
-- Includes **Flutter-based mobile controller app**
+Room rental and workflow-focused SaaS platform designed around practical operational use cases.
 
-🔗 **Hardware Repo:** https://github.com/ashokkhichi010/Bluetooth-RC-Car  
-🔗 **Controller App:** https://github.com/ashokkhichi010/Bluetooth-RC-Car-Controller  
+#### Focus Areas:
+- Property listing workflows
+- Booking systems
+- User operations
+- Workflow-based architecture
 
----
-
-### 🔹 WiFi RC Car (V2 - IoT Upgrade)
-
-- Upgraded Version of RC car using **ESP8266**  
-- Exploring **WiFi-based control and IoT communication systems**
-
-🔗 **Hardware Repo:** https://github.com/ashokkhichi010/Bluetooth-RC-Car/tree/v2  
-🔗 **Controller App:** https://github.com/ashokkhichi010/Bluetooth-RC-Car-Controller/tree/v2  
+🔗 Live: https://habiqua-student-hub.web.app/
 
 ---
 
-## 📚 Currently Learning
+### 🔹 TypeFromImage
 
-- Embedded Systems fundamentals  
-- C/C++ for microcontrollers  
-- IoT communication (WiFi, device control)  
-- Hardware debugging and system design  
+Typing practice platform allowing users to practice using custom image and text content.
+
+#### Features:
+- Image-based typing practice
+- Real-time input handling
+- Piano-style typing audio feedback
+- Prototype-first product validation
+
+🔗 Live: https://image-typing-test.web.app/
+
+---
+
+### 🔹 Real-Time Chat + Multiplayer System
+
+Built a real-time communication system with synchronized multiplayer interactions.
+
+#### Focus Areas:
+- WebSocket communication
+- Event-driven architecture
+- Multi-user synchronization
+- Real-time state management
+
+🔗 GitHub: https://github.com/ashokkhichi010/real-time-chatting-and-games
+
+---
+
+## 📚 Currently Focused On
+
+- Backend architecture and scalable APIs
+- Real-time systems and WebSockets
+- SaaS workflows and authentication systems
+- Product-oriented development
+- Maintainable full-stack applications
 
 ---
 
 ## 🎯 Goals
 
-- Build strong fundamentals in embedded systems  
-- Work on real-world IoT and automation systems  
-- Grow into a **Systems Engineer (Software + Hardware)**  
+- Build reliable SaaS systems solving real operational problems
+- Improve backend architecture and system design skills
+- Create maintainable products with practical workflows
+- Strengthen product thinking through real-world validation
+- Continue building independent and scalable applications
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ashok-kumar-7743b6249/  
-- 🌐 Portfolio: https://ashok-khichi-010.web.app/  
-- 💻 GitHub (Projects): https://github.com/akprojects2310  
-- 📧 Email: ashokkhichi010@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ashok-kumar-7743b6249/
+- 🌐 Portfolio: https://ashok-khichi-010.web.app/
+- 💻 GitHub: https://github.com/ashokkhichi010
+- 📦 Project Archive: https://github.com/akprojects2310
+- 📧 Email: ashokkhichi010@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy building systems that connect logic with the real world —  
-from backend APIs to physical devices.
+I enjoy building systems that solve practical workflow problems — especially backend-heavy applications involving APIs, real-time communication, and operational automation.
