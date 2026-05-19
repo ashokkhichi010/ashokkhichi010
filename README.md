@@ -47,9 +47,9 @@ Architected and delivered an end-to-end multi-tenant SaaS platform built to reso
 * **Tech Stack:** NestJS, MongoDB, React.js, Flutter, Firebase, Google Cloud Run
 * **Key Outcome:** Validated product-market fit via direct field deployment, uncovering practical insights regarding user adoption friction and offline workflow expectations.
 
-👉 [Main Platform](https://s3library.com/)
-👉 [Demo Version](https://free.s3library.com)
-👉 [Android App on Play Store](https://play.google.com/store/apps/details?id=com.s3library.students)
+👉 [Main Platform](https://s3library.com/) | 
+👉 [Demo Version](https://free.s3library.com) | 
+👉 [Android App on Play Store](https://play.google.com/store/apps/details?id=com.s3library.students) | 
 👉 [GitHub Repository](https://github.com/ashokkhichi010/s3-library-engineering-case-study)
 
 ---
@@ -70,7 +70,7 @@ A workflow-focused SaaS prototype built to handle modular room listing, tenant w
 * **Core Focus:** Focused extensively on modular system design, structural application codebases, and functional dashboard interfaces rather than standard static landing pages.
 * **Tech Stack:** Serverless SaaS Architecture, React.js, Tailwind CSS
 
-👉 [Live Link](https://habiqua-student-hub.web.app/)
+👉 [Live Link](https://habiqua-student-hub.web.app/) | 
 👉 [GitHub Repository](https://github.com/akprojects2310/Habiqua-Student-Hub)
 
 ---
@@ -81,7 +81,7 @@ An interactive communication system built to explore low-latency, multi-user eve
 * **Core Focus:** Implemented event-driven backend workflows, event handling, WebSocket communication layer, and multi-user synchronized state validation.
 * **Tech Stack:** Node.js, Socket.IO, WebSockets, MongoDB
 
-👉 [Frontend GitHub Repository](https://github.com/ashokkhichi010/NexChat-TradeSmart-Front-end)
+👉 [Frontend GitHub Repository](https://github.com/ashokkhichi010/NexChat-TradeSmart-Front-end) | 
 👉 [Backend GitHub Repository](https://github.com/ashokkhichi010/NexChat-TradeSmart-Back-end)
 
 ---
@@ -92,7 +92,7 @@ A specialized frontend prototyping utility built to process real-time user input
 * **Core Focus:** Explored rapid frontend scaffolding and Web Audio API integration to build an interactive piano-style audio feedback loop during runtime inputs.
 * **Tech Stack:** React.js, Web Audio API, Prototype Engineering
 
-👉 [Live Link](https://image-typing-test.web.app/)
+👉 [Live Link](https://image-typing-test.web.app/) | 
 👉 [GitHub Repository](https://github.com/ashokkhichi010/Type-From-Image)
 
 ---
