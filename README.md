@@ -54,6 +54,21 @@ Architected and delivered an end-to-end multi-tenant SaaS platform built to reso
 
 ---
 
+### 🔹 The Digital Museum of Human Thought
+
+An immersive, multilingual educational platform that transforms 2,600 years of philosophical history into an interactive digital museum experience, enabling users to explore the evolution of human thought through visually rich timelines, cinematic philosopher portraits, and contextual storytelling.
+
+* **Core Focus:** Designed as a mobile-first knowledge visualization platform that makes philosophy accessible to modern audiences through interactive historical navigation, bilingual content support, and museum-style storytelling. The platform guides users through the complete journey of Western philosophy, from the pre-philosophical world of myth and religion to contemporary philosophical movements, highlighting how ideas evolved and influenced one another across centuries.
+
+* **Key Features:** Interactive philosopher timeline, multilingual support (English & Hindi), cinematic philosopher galleries, historical context exploration, philosophical quote collections, era-based navigation, educational storytelling framework, responsive design system, and scalable content architecture for future philosopher and knowledge expansion.
+
+* **Tech Stack:** ReactJS, Tailwind CSS, Framer Motion, JavaScript, Responsive Design System, Localization Architecture
+
+👉 [Live Link](https://thought-museum.web.app/)
+👉 [GitHub Repository](https://github.com/ashokkhichi010/Thought-Museum)
+
+---
+
 ### 🔹 MD Agro Engineering
 A mobile-first industrial platform engineered specifically for an agricultural and steel fabrication workshop to modernize rural business visibility and customer credibility.
 
