@@ -1,13 +1,13 @@
 # Hi, I'm Ashok Kumar 👋
 
 ### Full Stack Software Engineer (Backend-Focused)
-I architect scalable SaaS systems, robust RESTful APIs, and real-time operational tools. My focus is on clean backend architecture, relational/non-relational database optimization, and practical engineering that solves real-world business bottlenecks.
+I have 2 years of professional experience in backend development, and over the past 1.5 years, I have developed a full-stack SaaS product for study-space management. Throughout this entire period, I managed the complete workflow—from design to deployment.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a pragmatic, backend-first developer who believes software should simplify operations, not complicate them. My development philosophy prioritizes maintainability, rigorous API security, and structured application workflow design over unnecessary abstractions.
+A pragmatic, 'backend-first' engineer focused on building scalable systems that solve real-world operational problems.
 
 ### 🚀 Engineering Maturity & Key Learnings:
 * **Product-First Thinking:** Building an independent SaaS (**S3 Library**) taught me that technical excellence must align with user adoption and market validation. 
