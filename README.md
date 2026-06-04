@@ -96,8 +96,8 @@ An interactive communication system built to explore low-latency, multi-user eve
 * **Core Focus:** Implemented event-driven backend workflows, event handling, WebSocket communication layer, and multi-user synchronized state validation.
 * **Tech Stack:** Node.js, Socket.IO, WebSockets, MongoDB
 
-👉 [Frontend GitHub Repository](https://github.com/ashokkhichi010/NexChat-TradeSmart-Front-end) | 
-👉 [Backend GitHub Repository](https://github.com/ashokkhichi010/NexChat-TradeSmart-Back-end)
+👉 [Frontend GitHub Repository](https://github.com/ashokkhichi010/Chat-Application-Frontend) | 
+👉 [Backend GitHub Repository](https://github.com/ashokkhichi010/Chat-Application-Backend)
 
 ---
 
