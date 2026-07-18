@@ -1,147 +1,268 @@
-# Hi, I'm Ashok Kumar 👋
+<div align="center">
+<h1>Hi, I'm Ashok Kumar 👋</h1>
 
-### Full Stack Software Engineer (Backend-Focused)
-I have 2 years of professional experience in backend development, and over the past 1.5 years, I have developed a full-stack SaaS product for study-space management. Throughout this entire period, I managed the complete workflow—from design to deployment.
+### Backend Engineer • Full Stack Product Developer • SaaS Builder
 
----
+Building scalable backend systems, modern web applications, and real-world products with a strong focus on clean architecture, maintainability, and user-centric engineering.
 
-## 👨‍💻 About Me
+<p>
 
-A pragmatic, 'backend-first' engineer focused on building scalable systems that solve real-world operational problems.
+<img height="25px" src="https://img.shields.io/badge/Experience-3%2B_Years-blue"/>
+<img height="25px" src="https://img.shields.io/badge/Backend-NestJS-success"/>
+<img height="25px" src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react"/>
+<img height="25px" src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb"/>
+<img height="25px" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql"/>
+<img height="25px" src="https://img.shields.io/badge/Open_to_Work-brightgreen"/>
 
-### 🚀 Engineering Maturity & Key Learnings:
-* **Product-First Thinking:** Building an independent SaaS (**S3 Library**) taught me that technical excellence must align with user adoption and market validation. 
-* **The Reality of Scaling:** Moving from simple CRUD apps to multi-tenant architectures taught me the critical importance of secure data isolation, complex workflow planning, and why automated testing (TDD) is non-negotiable for production stability.
-* **Leveraging Modern Tooling:** I treat AI development environments (Cursor/Copilot) as engineering accelerators, using them to rapidly prototype frontend layers so I can focus my primary energy on backend security, logic, and system architecture.
+</p>
 
----
-
-## 🔧 Tech Stack
-
-### 💻 Backend Engineering & Architecture
-- **Languages & Frameworks:** Node.js, NestJS, Express.js, TypeScript, JavaScript
-- **Architecture & Security:** System Design, Multi-Tenant Architecture, Workflow-Driven Logic, RESTful API Design
-- **Auth & Access Control:** JWT Authentication, Role-Based Access Control (RBAC), OAuth2
-
-### 🗄 Databases & Real-Time Communication
-- **Databases:** MongoDB (Aggregation Pipelines, Schema Design), PostgreSQL (Relational Modeling, SQL Optimization)
-- **Real-Time Systems:** WebSockets, Socket.IO, State Synchronization, Event-Driven Communication
-
-### 🖥 Frontend Interfaces
-- **Frameworks & Libraries:** React.js, Next.js, Redux Toolkit, Material UI, Tailwind CSS
-- **Mobile Development:** Flutter (Cross-Platform Apps)
-
-### ☁️ DevOps, Deployment & Tools
-- **Infrastructure:** Docker (Containerization), Google Cloud Run, Firebase Hosting, DNS Management (Cloudflare)
-- **Tools & Lifecycle:** Git & GitHub (GitFlow Workflow), Postman (API Testing), Testing Frameworks (Jest)
-- **AI-Assisted Engineering:** Cursor, GitHub Copilot, Claude, ChatGPT, v0/Lovable (Rapid Scaffolding)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 Introduction
 
-### 🔹 S3 Library Platform `[Archived/Legacy Product]`
-Architected and delivered an end-to-end multi-tenant SaaS platform built to resolve operational inefficiencies, manual seat allocations, and rigid subscription management in local environments.
+I'm a **Backend Engineer** with **3+ years of software development experience**, specializing in building scalable SaaS platforms, REST APIs, multi-tenant architectures, and workflow-driven business applications.
 
-* **Core Contributions:** Managed full lifecycle deployment. Designed the multi-tenant database schema, built secure backends via NestJS, handled RBAC, integrated payment webhooks, and deployed scalable student-facing mobile apps.
-* **Tech Stack:** NestJS, MongoDB, React.js, Flutter, Firebase, Google Cloud Run
-* **Key Outcome:** Validated product-market fit via direct field deployment, uncovering practical insights regarding user adoption friction and offline workflow expectations.
+Over the past few years, I've designed and developed complete products—from architecture and backend services to responsive frontend applications and production deployments. My work spans enterprise management systems, educational platforms, real-time communication systems, industrial websites, and modern consumer-facing applications.
 
-👉 [Main Platform](https://s3library.com/) | 
-👉 [Demo Version](https://free.s3library.com) | 
-👉 [Android App on Play Store](https://play.google.com/store/apps/details?id=com.s3library.students) | 
-👉 [GitHub Repository](https://github.com/ashokkhichi010/s3-library-engineering-case-study)
+I enjoy solving operational problems through clean system design, modular architectures, and practical engineering rather than simply writing code. I believe successful software is built by combining technical excellence with real-world product thinking.
+
+Currently, I'm focused on advancing my expertise in distributed backend systems, scalable SaaS architecture, PostgreSQL, automated testing, and production-grade software engineering.
 
 ---
 
-### 🔹 The Digital Museum of Human Thought
+# 🚀 Engineering Philosophy
 
-An immersive, multilingual educational platform that transforms 2,600 years of philosophical history into an interactive digital museum experience, enabling users to explore the evolution of human thought through visually rich timelines, cinematic philosopher portraits, and contextual storytelling.
-
-* **Core Focus:** Designed as a mobile-first knowledge visualization platform that makes philosophy accessible to modern audiences through interactive historical navigation, bilingual content support, and museum-style storytelling. The platform guides users through the complete journey of Western philosophy, from the pre-philosophical world of myth and religion to contemporary philosophical movements, highlighting how ideas evolved and influenced one another across centuries.
-
-* **Key Features:** Interactive philosopher timeline, multilingual support (English & Hindi), cinematic philosopher galleries, historical context exploration, philosophical quote collections, era-based navigation, educational storytelling framework, responsive design system, and scalable content architecture for future philosopher and knowledge expansion.
-
-* **Tech Stack:** ReactJS, Tailwind CSS, Framer Motion, JavaScript, Responsive Design System, Localization Architecture
-
-👉 [Live Link](https://thought-museum.web.app/)
-👉 [GitHub Repository](https://github.com/ashokkhichi010/Thought-Museum)
+- Build software that solves real operational problems.
+- Design scalable architectures before writing features.
+- Keep business logic clean, modular, and maintainable.
+- Prioritize developer experience alongside user experience.
+- Treat AI tools as engineering accelerators—not replacements for engineering principles.
+- Continuously improve through product iteration, experimentation, and real-world feedback.
 
 ---
 
-### 🔹 MD Agro Engineering
-A mobile-first industrial platform engineered specifically for an agricultural and steel fabrication workshop to modernize rural business visibility and customer credibility.
+# 🛠 Technical Skills
 
-* **Core Focus:** Built with a scalable frontend architecture using ReactJS and Tailwind CSS. Intentionally designed to provide an accessible, high-performance UI/UX optimized for non-technical users operating on low-bandwidth networks.
-* **Tech Stack:** ReactJS, Tailwind CSS, Framer Motion, Redux Toolkit, Firebase
+## 💻 Backend Engineering
 
-👉 [Live Link](https://md-agro-engineering.web.app/)
+<p>
 
----
+<img height="30px" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+<img height="30px" src="https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/OAuth2-4285F4?logo=google&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/RBAC-4B5563"/>
+<img height="30px" src="https://img.shields.io/badge/System_Design-2563EB"/>
+<img height="30px" src="https://img.shields.io/badge/Multi--Tenant_Architecture-7C3AED"/>
+<img height="30px" src="https://img.shields.io/badge/Workflow_Automation-059669"/>
 
-### 🔹 Habiqua Student Hub
-A workflow-focused SaaS prototype built to handle modular room listing, tenant workflows, and role-based operational management for rental properties.
-
-* **Core Focus:** Focused extensively on modular system design, structural application codebases, and functional dashboard interfaces rather than standard static landing pages.
-* **Tech Stack:** Serverless SaaS Architecture, React.js, Tailwind CSS
-
-👉 [Live Link](https://habiqua-student-hub.web.app/) | 
-👉 [GitHub Repository](https://github.com/akprojects2310/Habiqua-Student-Hub)
-
----
-
-### 🔹 Real-Time Chat + Multiplayer System
-An interactive communication system built to explore low-latency, multi-user event synchronization beyond traditional request-response REST structures.
-
-* **Core Focus:** Implemented event-driven backend workflows, event handling, WebSocket communication layer, and multi-user synchronized state validation.
-* **Tech Stack:** Node.js, Socket.IO, WebSockets, MongoDB
-
-👉 [Frontend GitHub Repository](https://github.com/ashokkhichi010/Chat-Application-Frontend) | 
-👉 [Backend GitHub Repository](https://github.com/ashokkhichi010/Chat-Application-Backend)
+</p>
 
 ---
 
-### 🔹 TypeFromImage
-A specialized frontend prototyping utility built to process real-time user inputs against dynamic text extracted from user-provided images or materials.
+## 🗄 Databases
 
-* **Core Focus:** Explored rapid frontend scaffolding and Web Audio API integration to build an interactive piano-style audio feedback loop during runtime inputs.
-* **Tech Stack:** React.js, Web Audio API, Prototype Engineering
+<p>
 
-👉 [Live Link](https://image-typing-test.web.app/) | 
-👉 [GitHub Repository](https://github.com/ashokkhichi010/Type-From-Image)
+<img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Mongoose-880000"/>
+<img height="30px" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/IndexedDB-00599C"/>
+<img height="30px" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
 
----
-
-## 📚 Currently Focused On
-
-- Advanced System Design and Distributed Backend Architecture
-- Implementing Test-Driven Development (TDD) methodologies using Jest and Supertest
-- Enhancing complex relational database querying and schema migrations (PostgreSQL)
-- Writing robust, technical API documentation and architecture layout maps
-- Contributing to production-grade SaaS engineering pipelines in high-impact development teams
+</p>
 
 ---
 
-## 🎯 Goals
+## ⚡ Real-Time Communication
 
-- Engineer reliable, production-grade SaaS ecosystems that solve genuine operational problems
-- Write clean, test-covered, and maintainable backend layers requiring low operational overhead
-- Maximize performance optimization across backend-heavy APIs and real-time synchronized nodes
-- Bridge the gap between engineering implementations and product adoption metrics
-- Continue evolving as a product-minded engineer through active team collaboration and peer reviews
+<p>
 
----
+<img height="30px" src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/WebSockets-010101"/>
+<img height="30px" src="https://img.shields.io/badge/Event--Driven_Architecture-2563EB"/>
+<img height="30px" src="https://img.shields.io/badge/State_Synchronization-059669"/>
 
-## 🌐 Connect With Me
-
-* 💼 **LinkedIn:** [Ashok Kumar](https://www.linkedin.com/in/ashok-kumar-7743b6249/)
-* 🌐 **Portfolio Website:** [ashok-khichi-010.web.app](https://ashok-khichi-010.web.app/)
-* 💻 **GitHub Main:** [@ashokkhichi010](https://github.com/ashokkhichi010)
-* 📦 **Project Archive:** [@akprojects2310](https://github.com/akprojects2310)
-* 📧 **Email:** ashokkhichi010@gmail.com
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🎨 Frontend Development
 
-For me, development is not just about translating specs into code. I genuinely enjoy the process of dissecting an active operational mess (like legacy subscription trackers or offline seat allocations), mapping it into clean architecture diagrams, and resolving it via structured automation and resilient backend modules!
+<p>
+
+<img height="30px" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+<img height="30px" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Responsive_UI-0EA5E9"/>
+
+</p>
+
+---
+
+## 📱 Mobile Development
+
+<p>
+
+<img height="30px" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img height="30px" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?logo=googlecloud&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Firebase_Hosting-FFCA28?logo=firebase&logoColor=black"/>
+<img height="30px" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## 🧪 Testing & API Development
+
+<p>
+
+<img height="30px" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Supertest-000000"/>
+<img height="30px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/API_Testing-0891B2"/>
+<img height="30px" src="https://img.shields.io/badge/Performance_Optimization-059669"/>
+
+</p>
+
+---
+
+## 🤖 AI-Assisted Development
+
+<p>
+
+<img height="30px" src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white"/>
+<img height="30px" src="https://img.shields.io/badge/Cursor-000000"/>
+<img height="30px" src="https://img.shields.io/badge/Claude-D97706"/>
+<img height="30px" src="https://img.shields.io/badge/Lovable-FF4F64"/>
+<img height="30px" src="https://img.shields.io/badge/v0-000000"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 Multi-Tenant ERP SaaS Platform *(In Progress)*
+
+A modern enterprise resource planning platform built using a **database-per-tenant architecture**, providing isolated workspaces, subscription management, role-based access control, multilingual support, dynamic themes, and scalable business modules for organizations.
+
+**GitHub**
+
+Frontend → https://github.com/ashokkhichi010/erp-saas-website
+
+Backend → https://github.com/ashokkhichi010/erp-saas-server
+
+---
+
+## 📚 S3 Library Ecosystem
+
+A complete study-space management ecosystem featuring a cloud-based multi-tenant SaaS platform alongside a modern Local-First edition, enabling libraries to manage seats, subscriptions, students, attendance, and operations both online and offline.
+
+**Live**
+
+https://s3library.com
+
+https://free.s3library.com
+
+**GitHub**
+
+https://github.com/ashokkhichi010/s3-library-engineering-case-study
+
+https://github.com/ashokkhichi010/custom-s3-library
+
+---
+
+## ❤️ Soulmate Finder
+
+A privacy-first matchmaking platform focused on meaningful compatibility, guided onboarding, intelligent profile discovery, and modern responsive user experiences, built with a scalable frontend architecture for future AI-powered recommendations.
+
+**Live**
+
+https://soulmate-find.web.app/
+
+**GitHub**
+
+https://github.com/ashokkhichi010/Soulmate-Finder
+
+https://github.com/ashokkhichi010/Soulmate-Finder-v2
+
+---
+
+## 🏛️ The Digital Museum of Human Thought
+
+An immersive educational platform that transforms over 2,600 years of philosophical history into an interactive digital museum through multilingual storytelling, cinematic visuals, and timeline-based knowledge exploration.
+
+**Live**
+
+https://thought-museum.web.app/
+
+**GitHub**
+
+https://github.com/ashokkhichi010/Thought-Museum
+
+---
+
+## 📄 Resume Builder
+
+A modern ATS-friendly resume builder that enables users to create professional resumes with live editing, responsive layouts, customizable templates, and export-ready documents for job applications.
+
+**Live**
+
+https://resume-builder-010.vercel.app/
+
+**GitHub**
+
+https://github.com/ashokkhichi010/resume-builder
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|-----------|------|
+| 💼 **LinkedIn** | https://www.linkedin.com/in/ashok-kumar-7743b6249/ |
+| 🌐 **Portfolio** | https://ashok-khichi-010.web.app/ |
+| 💻 **GitHub** | https://github.com/ashokkhichi010 |
+| 📦 **Project Archive** | https://github.com/akprojects2310 |
+| 📧 **Email** | ashokkhichi010@gmail.com |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+*"Building reliable software that bridges thoughtful engineering with practical business value."*
+
+</div>
