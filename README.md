@@ -173,12 +173,6 @@ Currently, I'm focused on advancing my expertise in distributed backend systems,
 
 A modern enterprise resource planning platform built using a **database-per-tenant architecture**, providing isolated workspaces, subscription management, role-based access control, multilingual support, dynamic themes, and scalable business modules for organizations.
 
-**GitHub**
-
-Frontend → https://github.com/ashokkhichi010/erp-saas-website
-
-Backend → https://github.com/ashokkhichi010/erp-saas-server
-
 ---
 
 ## 📚 S3 Library Ecosystem
